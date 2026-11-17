@@ -6,13 +6,13 @@ Este proyecto presenta un **Análisis Exploratorio de Datos (EDA** sobre el comp
 [Badget 2](https://img.shields.io/badge/Estado-Completado-success)
 
 # Índice
-[Resumen Ejecutivo](Resumen-Ejecutivo)
+[Resumen Ejecutivo](https://github.com/TaniaGraff/Brief_Report/blob/main/README.md#resumen-ejecutivo-y-hallazgos-clave)
 
-[Tabla de KPIs](Tabla-de-KPIs)
+[Tabla de KPIs](https://github.com/TaniaGraff/Brief_Report/edit/main/README.md#tabla-de-m%C3%A9tricas-kpis)
 
-[Metodología](Metodología)
+[Metodología](https://github.com/TaniaGraff/Brief_Report/edit/main/README.md#metodolog%C3%ADa-y-stack-t%C3%A9cnico)
 
-[Código Destacado](Código-Destacado)
+[Código Destacado](https://github.com/TaniaGraff/Brief_Report/edit/main/README.md#c%C3%B3digo-destacado)
 
 # Resumen Ejecutivo y Hallazgos Clave
 ## Resumen Ejecutivo
