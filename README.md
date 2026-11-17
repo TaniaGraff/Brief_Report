@@ -47,7 +47,7 @@ Estado del proyecto
 - [x] Limpieza y validación del dataset
 - [x] Análisis exploratorio y pruebas de hipótesis
 - [ ] Automatización del pipeline semanal con Airflow
-- [ ] Modelo predictivo de *churn*
+- [ ] Modelo predictivo de churn
 
 Fragmento de Código
 Código Destacado - Consulta SQL utilizada para calcular el ticket promedio por categoría
